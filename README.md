@@ -15,6 +15,8 @@
 [![Build Status](https://travis-ci.org/codice/ddf.png)](https://travis-ci.org/codice/ddf-libs?branch=master)
 [![Coverity Scan Build Status](https://scan.coverity.com/projects/3711/badge.svg)](https://scan.coverity.com/projects/3711)
 
+** DEPRECATED Code Respository **
+
 DDF-Libs is a repository for library modules in DDF. Typically the modules in this repository are re-usable across different components of DDF.
 
 ## Additional information
