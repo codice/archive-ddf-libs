@@ -23,6 +23,7 @@ Please refer to the DDF readme on https://github.com/codice/ddf for more informa
 -- The Codice DDF Development Team
 
 ## Copyright / License
+
 Copyright (c) Codice Foundation
 
 This is free software: you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License
