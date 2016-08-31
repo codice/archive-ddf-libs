@@ -14,7 +14,9 @@
 # [Distributed Data Framework \(DDF\)](http://ddf.codice.org/)
 [![Build Status](https://travis-ci.org/codice/ddf.png)](https://travis-ci.org/codice/ddf-libs?branch=master)
 [![Coverity Scan Build Status](https://scan.coverity.com/projects/3711/badge.svg)](https://scan.coverity.com/projects/3711)
-[![CLA assistant](https://cla-assistant.io/readme/badge/shaundmorris/archive-ddf-libs)](https://cla-assistant.io/shaundmorris/archive-ddf-libs)
+[![CLA assistant](https://img.shields.io/badge/CLAs%20signed-1-0594c6.svg)](https://cla-assistant.io/shaundmorris/archive-ddf-libs)
+
+
 
 **DEPRECATED Code Respository**
 
