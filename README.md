@@ -14,6 +14,11 @@
 # [Distributed Data Framework \(DDF\)](http://ddf.codice.org/)
 [![Build Status](https://travis-ci.org/codice/ddf.png)](https://travis-ci.org/codice/ddf-libs?branch=master)
 [![Coverity Scan Build Status](https://scan.coverity.com/projects/3711/badge.svg)](https://scan.coverity.com/projects/3711)
+[![CLA assistant](https://img.shields.io/badge/CLAs%20signed-1-0594c6.svg)](https://cla-assistant.io/shaundmorris/archive-ddf-libs)
+
+
+
+**DEPRECATED Code Respository**
 
 DDF-Libs is a repository for library modules in DDF. Typically the modules in this repository are re-usable across different components of DDF.
 
