@@ -11,12 +11,6 @@
  */
  
  DO NOT MERGE
- DO NOT MERGE2
- DO NOT MERGE3
- DO NOT MERGE4
- DO NOT MERGE5
- DO NOT MERGE6
- DO NOT MERGE7
  
 -->
 <img src="https://tools.codice.org/wiki/download/attachments/3047458/ddf.jpg"/>
