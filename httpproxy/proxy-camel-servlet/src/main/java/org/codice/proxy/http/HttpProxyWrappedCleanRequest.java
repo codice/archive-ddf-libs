@@ -40,6 +40,7 @@ public class HttpProxyWrappedCleanRequest extends HttpServletRequestWrapper {
     public String getQueryString() {
         String queryString = super.getQueryString();
         // If query string ends with an ampersand, take it off
+        FOR TESTING PURPOSES: this line should break the build! =)
         if (StringUtils.endsWith(queryString, "&")) {
             queryString = StringUtils.chop(queryString);
         }
